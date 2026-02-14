@@ -17,3 +17,5 @@ scikit-learn
 bert-score
 joblib
 accelerate>=0.26.0
+ipywidgets
+spacy
